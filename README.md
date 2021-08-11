@@ -24,7 +24,7 @@ git clone git@github.com:gabrielmirandaBR/monitoring-sites-Go.git
 
 cd monitoring-sites-Go
 
-abrir o terminal e rodar a alplicação:
+abrir o terminal e rodar a aplicação:
 
 go run monitoring.go
 ```
