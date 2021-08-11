@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta aplicação é uma aplicação via terminal que tem o objetivo de realizar monitoramento de sites. A pessoa usuária tem as opções de:
+Esta aplicação tem o objetivo de realizar monitoramento de sites (status HTTP) via terminal. A pessoa usuária tem as opções de:
 
 - Definir quais sites deseja monitorar;
 - Definir o número de monitoramentos e o intervalo entre eles;
